@@ -23,5 +23,8 @@
   "homepage": "https://github.com/sergiosinlimites/typescript-fundamentals-course#readme",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.19"
   }
 }
